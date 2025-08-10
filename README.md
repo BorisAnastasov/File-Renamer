@@ -22,16 +22,15 @@ By default, it runs in **dry-run mode** to preview changes before making them, a
 ## 📦 Installation
 
 ### Option 1 — Download & Run
-1. Go to the **[Releases](../../releases)** section.
-2. Download the latest `FileRenamerPro.zip`.
+1. Go to the **[📦 Download Latest Version](releases)** section.
+2. Download the latest `Renamer_vX.0.zip`.
 3. Extract it to any folder.
 4. Open **Command Prompt** or **PowerShell** in that folder.
 5. Run `Renamer.exe` with your desired options.
 
-### Option 2 — Install to PATH (optional)
-Run the included `install.bat` to add File Renamer Pro to your system PATH so you can run it from anywhere:
-```bash
-install.bat
+### Option 2.1 — Install to PATH (optional)
+Run the included `install_renamer.bat` to add File Renamer Pro to your system so you can run it from anywhere.
 
-## If you ever want to remove it completely from your system, use the included uninstall
+### Option 2.2 - Uninstall from PATH
+If you ever want to remove it completely from your system, use the included `uninstall_renamer.bat`. 
 
