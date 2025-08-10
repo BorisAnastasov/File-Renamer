@@ -1,4 +1,4 @@
-# 📂 File Renamer Pro — Batch File Rename Tool (C# .NET 8)
+# 📂 File Renamer — Batch File Rename Tool (C# .NET 8)
 
 **File Renamer Pro** is a lightweight and fast batch file renaming tool built in **C# (.NET 8)**.  
 It lets you rename hundreds or thousands of files in seconds using flexible templates, sequence numbers, date tokens, find/replace, and regex.  
